@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351487900206",
+    "project_id": "fp-tekber-a256b",
+    "storage_bucket": "fp-tekber-a256b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351487900206:android:c6ffb9a68fc568bf07fdbf",
+        "android_client_info": {
+          "package_name": "com.example.fptekber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxLPNf-jxtuOEuswRMGBn9BYzibHEuE3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
